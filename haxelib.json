@@ -1,0 +1,15 @@
+{
+    "name": "funkinHelper",
+    "license": "MIT",
+    "tags": ["cross"],
+    "description": "A Funkin' Haxelib will help you make own Engine in Base Engine Source more easier!",
+    "dependencies": {
+        "lime": "",
+        "flixel": "",
+        "openfl": ""
+    },
+    "releasenote": "new released",
+    "version": "1.0.0",
+    "contributors": ["huy1234th"],
+    "classPath": "src/"
+}
