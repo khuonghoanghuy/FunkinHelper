@@ -11,5 +11,6 @@
     "releasenote": "new released",
     "version": "1.0.0",
     "contributors": ["huy1234th"],
-    "classPath": "src/"
+    "classPath": "src/",
+    "url": "https://github.com/khuonghoanghuy/FunkinHelper"
 }
